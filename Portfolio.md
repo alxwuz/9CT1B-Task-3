@@ -1,44 +1,35 @@
 # Alex's Portfolio
-# Identifying and Defining
+
+## PMI
+Plus: Improves hand-eye coordination and cognitive abilities while developing their motor skills, as well as reaction times and problem-solving skills.
+
+Minus: Can bee too addicting for the user and they may want to play the game instead of doing other useful things.
+
+Interesting: Making this game introduces a new genre that has been old, it has been a very old genre.
+
+## Identifying and Defining
 ### Need
-To make an entertaining and 
+To improve young teen's hand-eye coordination and cognitive abilities while developing their motor skills, as well as offering a fun and entertaining way to improve essential developmental skills, such as reaction times, problem-solving skills.
 
 ### Problem Statement
-Young children often need fun and educational activities that enhance their motor skills and hand-eye coordination. A ball rolling game that requires players to navigate obstacles and solve puzzles by tilting or controlling the movement of a ball can help develop these skills while keeping them entertained.
+Lots of teenagers struggle with conentrating due to their short attention spans, which is caused from short-form videos such as Tiktok, Youtube Shorts and WeChat Channels. By making a very interesting game, users will want to interact with the challenges within the game, resulting in a repaired attention span, allowing them to focus in other aspects of life, like school.
 
 ### Skill Development
-To develop the skills in Unity required to create the game, I would complete this roll-a-ball Unity tutorial.
+To develop the skills in Unity required to create the game, I would complete the 2D Rougelike tutorial, which can teach me the basics of the game, allowing me to expand further and exploring better game features.
 
 ## Requirements Outline
-### Processing
-**Task:** 
-Describe what processing needs to happen once the inputs are received. What calculations or logic will your program follow?
+### Inputs
+- Movement Keys: WASD, Arrows, Spacebar
+- Ability Keys: Designated keys for an ability (magic, puches, e.g.)
 
-**Instructions:**
-Outline how the system will process the inputs.
-Example: The program will check for collisions, calculate the new position of the player, and update the game score accordingly.
+
+### Processing
+
 
 ### Outputs
-**Task:** 
-Define what the user will see or experience after processing.
-
-**Instructions:**
-List the outputs, such as screen updates, sounds, or messages.
-Example: The game will display the player's score, character's position, and a game-over message.
 
 
 ### Transmission
-**Task:**
-Determine if there will be any data transmission requirements.
 
-**Instructions:**
-Will your project require network communication or multiplayer support? If yes, describe it.
-Example: The game will send score data to an online leaderboard.
 
 ### Storage
-**Task:**
-Identify any data that needs to be saved, either locally or in the cloud.
-
-**Instructions:**
-Consider if the project will store game progress, user settings, or other important information.
-Example: The game will store the user's progress and high score locally.
