@@ -46,11 +46,8 @@ The game will have all of the assets in different categorized folders (e.g. spri
 ### User Interaction
 The user will interact with the game using the keyboard and mouse inputs. They can move their character, select their weapon, etc. They can press E for their inventory, F and C to use their abilities, T to dodge and more.
 
-### Core Gameplay or Simulation Mechanics
-The main objective of the game is to rescue his best friend trapped in a cage, while he has to go through deeper dungeons, fighting off monsters and enemies. The user will need to dodge, with good movement and combat skills, to reach the key and to unlock the next level.
-
 ### Scoring and Feedback (if applicable)
-Every time the user defeats a monster and unlocks the next level, they get a specific amount of points. They get even more when they rescue the main character's best friend, and they beat the game when they leave the dungeon.
+Every time the user defeats a monster and unlocks the next level, they get a specific amount of points. They get even more when they rescue the main character's best friend, and then beating the game.
 
 ### Level Progression or Simulation Stages (if applicable)
 There will be multiple levels of the dungeon, allowing players to have a good amount of gameplay, defeating monsters and enemies until you save the main character's best friend.
@@ -93,10 +90,89 @@ It will be pretty hard for the game to affect the player's mental health, as it 
 The content is not offensive to cultures, as it is just about someone killing monsters and rescuing their best friend. There will not be anything related to any relgions that offend it, including satanic symbols, mocking gods, etc. The game is supposed to be friendly (apart from the monsters) and playable, not offending cultures.
 
 # Researching and Planning
+## Flowchart and Pseudocode
+### Core Gameplay
+![alt text](<User Interaction.drawio.png>)
 
+&nbsp; START
 
+&nbsp; Input from User
 
+&nbsp; IF 'W' pressed THEN
 
+&nbsp; &nbsp; Move up
 
+&nbsp; IF 'A' pressed THEN
 
+&nbsp; &nbsp; Move left
 
+&nbsp; IF 'S' pressed THEN
+
+&nbsp; &nbsp; Move down
+
+&nbsp; IF 'D' pressed THEN
+
+&nbsp; &nbsp; Move right
+
+&nbsp; IF 'Misc' keys pressed THEN
+
+&nbsp; &nbsp; Do action
+
+&nbsp; END
+
+### Scoring and Feedback (if applicable)
+![alt text](<Core Gameplay.drawio.png>)
+
+&nbsp; START
+
+&nbsp; Event Happening
+
+&nbsp; IF 'Monster Defeated' THEN
+
+&nbsp; &nbsp; Give 10 Points
+
+&nbsp; IF 'Friend Saved' THEN
+
+&nbsp; &nbsp; Give 100 Points
+
+&nbsp; IF 'Level Cleared' THEN
+
+&nbsp; &nbsp; Give 50 Points
+
+&nbsp; end
+
+### Level Progression or Simulation Stages (if applicable)
+![alt text](<Level Progression.drawio.png>)
+
+&nbsp; START
+
+&nbsp; User beats level
+
+&nbsp; &nbsp; Enter current level + 1
+
+&nbsp; IF 'Last level' THEN
+
+&nbsp; &nbsp; Play winning screen
+
+&nbsp; END
+
+### Saving and Loading Data
+![alt text](<Saving and Loading Data.drawio.png>)
+
+&nbsp; START
+
+&nbsp; User beats a level
+
+&nbsp; &nbsp; Save score and items
+
+&nbsp; User manually saves level
+
+&nbsp; &nbsp; Save score, items and position
+
+&nbsp; END
+
+## Storyboards
+![alt text](<Whole Game Storyboard.drawio.png>)
+
+## Gantt Chart
+[text](<../../../Downloads/Copy of Gantt Chart Example - Sheet1.pdf>)
