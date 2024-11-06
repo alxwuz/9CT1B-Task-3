@@ -174,7 +174,6 @@ The content is not offensive to cultures, as it is just about someone killing mo
 ![alt text](<Whole Game Storyboard.drawio-1.png>)
 
 ## Gantt Chart
-[texst](<../../../Downloads/Copy of Gantt Chart Example - Sheet1.pdf>)
-(use vscode-pdf extension to view)
+![alt text](<Copy of Gantt Chart Example - Sheet1-1.png>)
 
 
