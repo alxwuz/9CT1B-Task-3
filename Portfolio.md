@@ -91,7 +91,7 @@ The content is not offensive to cultures, as it is just about someone killing mo
 
 # Researching and Planning
 ## Flowchart and Pseudocode
-### Core Gameplay
+### User Interaction
 ![alt text](<User Interaction.drawio.png>)
 
 &nbsp; START
@@ -102,21 +102,17 @@ The content is not offensive to cultures, as it is just about someone killing mo
 
 &nbsp; &nbsp; Move up
 
-&nbsp; IF 'A' pressed THEN
+&nbsp; ELSE IF 'A' pressed THEN
 
 &nbsp; &nbsp; Move left
 
-&nbsp; IF 'S' pressed THEN
+&nbsp; ELSE IF 'S' pressed THEN
 
 &nbsp; &nbsp; Move down
 
-&nbsp; IF 'D' pressed THEN
+&nbsp; ELSE IF 'D' pressed THEN
 
 &nbsp; &nbsp; Move right
-
-&nbsp; IF 'Misc' keys pressed THEN
-
-&nbsp; &nbsp; Do action
 
 &nbsp; END
 
@@ -131,11 +127,11 @@ The content is not offensive to cultures, as it is just about someone killing mo
 
 &nbsp; &nbsp; Give 10 Points
 
-&nbsp; IF 'Friend Saved' THEN
+&nbsp; ELSE IF 'Friend Saved' THEN
 
 &nbsp; &nbsp; Give 100 Points
 
-&nbsp; IF 'Level Cleared' THEN
+&nbsp; ELSE IF 'Level Cleared' THEN
 
 &nbsp; &nbsp; Give 50 Points
 
@@ -172,7 +168,9 @@ The content is not offensive to cultures, as it is just about someone killing mo
 &nbsp; END
 
 ## Storyboards
-![alt text](<Whole Game Storyboard.drawio.png>)
+### Flowchart
+![alt text](<Whole Game Storyboard.drawio-1.png>)
 
 ## Gantt Chart
-[text](<../../../Downloads/Copy of Gantt Chart Example - Sheet1.pdf>)
+[texst](<../../../Downloads/Copy of Gantt Chart Example - Sheet1.pdf>)
+(use vscode-pdf extension to view)
