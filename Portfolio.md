@@ -2,11 +2,6 @@
 
 # Identifying and Defining
 ## PMI
-Plus: Improves hand-eye coordination and cognitive abilities while developing their motor skills, as well as reaction times and problem-solving skills.
-
-Minus: Can bee too addicting for the user and they may want to play the game instead of doing other useful things.
-
-Interesting: Making this game introduces a very old genre that has not been one of the popular genres for a while, so making this game will introduce a new gaming category to players.
 
 | Existing Idea | Plus | Minus | Implication |
 |:------------- |:---- |:----- |:----------- |
